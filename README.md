@@ -23,7 +23,11 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AisakaChan&locale=pt_BR&background=030D22&border=FF2E97&stroke=FF2E97&ring=0EF3FF&fire=FFD400&currStreakNum=FFD400&sideNums=FFD400&currStreakLabel=FF2E97&sideLabels=FF2E97&dates=0EF3FF" alt="Streak Stats">
 </p>
 
----
+<h1 align="center">
+	<br>
+	<img width="275" src="https://github.com/AisakaChan/AisakaChan/blob/main/cats.gif" alt="computer-cat">
+	<br>
+</h1>
 
 - 📫 Como chegar até mim: <a href="https://t.me/aisaka_chan" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 - 🔭 Estou trabalhando atualmente em [Um website](https://dtmod.xyz)
