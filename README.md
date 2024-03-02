@@ -14,7 +14,7 @@
     -->
 
 ![Banner](coding_wallpaper.jpg)
-<h1 align="center">Oi lá 👋, eu sou a Aisaka</h1>
+<h1 align="center">Olá 👋, eu sou a Aisaka</h1>
 <h3 align="center">Uma iniciante no mundo da programação</h3>
 
 <br>
