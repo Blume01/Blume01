@@ -29,7 +29,7 @@
 
 - 🌱 Atualmente estou aprendendo desenvolvimento web com TypeScript
 
----
+-
 
 <h3 align="center">Linguagens e Ferramentas</h3>
 <p align="center">
