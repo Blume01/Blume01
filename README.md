@@ -17,7 +17,7 @@
 </h1>
 
 <h3 align="center">
-	Linguagens e Ferramentas
+	Languages ​​and Tools
 </h3>
 <p align="center">
   <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
