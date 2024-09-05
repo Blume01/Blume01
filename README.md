@@ -2,6 +2,12 @@
 
 <br>
 
+<h1 align="center">
+	<img
+		width="150"
+		src="https://github.com/Blume01/Blume01/blob/main/cats.gif"
+		alt="computer-cat">
+</h1>
 <p align="center">
 	<img
 		align="center"
@@ -9,12 +15,6 @@
 		alt="Streak Stats">
 </p>
 
-<h1 align="center">
-	<img
-		width="150"
-		src="https://github.com/Blume01/Blume01/blob/main/cats.gif"
-		alt="computer-cat">
-</h1>
 
 <h3 align="center">
 	Languages ​​and Tools
