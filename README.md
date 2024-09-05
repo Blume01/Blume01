@@ -1,6 +1,4 @@
 ![Banner](coding_wallpaper.jpg)
-<h1 align="center">Olá 👋</h1>
-<h3 align="center">Estou me aventurando no mundo da programação</h3>
 
 <br>
 
@@ -11,8 +9,6 @@
 <h1 align="center">
 	<img width="150" src="https://github.com/AisakaChan/AisakaChan/blob/main/cats.gif" alt="computer-cat">
 </h1>
-
-- 🌱 Atualmente estou aprendendo desenvolvimento web com TypeScript
 
 <h3 align="center">Linguagens e Ferramentas</h3>
 <p align="center">
