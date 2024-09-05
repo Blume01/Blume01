@@ -2,13 +2,11 @@
 
 <br>
 
-<h1 align="center">
+<p align="center">
 	<img
 		width="150"
 		src="https://github.com/Blume01/Blume01/blob/main/cats.gif"
 		alt="computer-cat">
-</h1>
-<p align="center">
 	<img
 		align="center"
 		src="https://github-readme-streak-stats.herokuapp.com?user=Blume01&locale=en&background=030D22&border=FF2E97&stroke=FF2E97&ring=0EF3FF&fire=FFD400&currStreakNum=FFD400&sideNums=FFD400&currStreakLabel=FF2E97&sideLabels=FF2E97&dates=0EF3FF"
