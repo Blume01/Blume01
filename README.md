@@ -27,9 +27,7 @@
 	<img width="150" src="https://github.com/AisakaChan/AisakaChan/blob/main/cats.gif" alt="computer-cat">
 </h1>
 
-- 📫 Como chegar até mim: <a href="https://t.me/aisaka_chan" target="_blank"><img src="https://img.shields.io/badge/Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-- 🔭 Estou trabalhando atualmente em um [website](https://dtmod.xyz)
-- 🌱 Atualmente estou aprendendo desenvolvimento web com Ajax
+- 🌱 Atualmente estou aprendendo desenvolvimento web com TypeScript
 
 ---
 
