@@ -4,8 +4,7 @@
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blume01&show_icons=true&theme=dark&hide_border=true" alt="Blume01 GitHub Stats"/>
-</div>
-<div>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blume01&layout=compact&langs_count=8&theme=dark&hide_border=true" alt="Blume01 Top Languages"/>
 </div>  
 
