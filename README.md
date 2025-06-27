@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Blume01!  
+# 👋 Olá, eu sou a Blume01!  
 
 🚀 **Sou desenvolvedora PHP** apaixonada por **arquitetura limpa, código escalável e soluções eficientes**.  
 
